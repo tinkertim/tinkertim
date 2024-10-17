@@ -10,32 +10,35 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Autism-affirming Philosophy',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        ABA isn't for everyone, and fits people differently when it is for them. As someone 
+        with Autism who doesn't respond well to ABA, I affirm and normalize autistic traits
+        while providing insight and experience to help you solve problems.  
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'A New Normal After Brain Trauma',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Recovering from any kind of brain trauma is incredibly hard; recovering from 
+        brain trauma when you also have Autism feels beyond cruel for many adults. Those with Autism
+        who survive cancer, accidents, violence and disasters recover better with empathetic
+        advocates and supporters, especially when returning to work.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Being Authentic AND Autistic In Tech',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        As someone with Alexithemiya, I'm all too familiar with how difficult it can 
+        be to navigate workplace stress as a trauma survivor.  
       </>
     ),
   },

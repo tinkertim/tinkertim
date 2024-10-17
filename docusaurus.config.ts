@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'ASD, ADHD & Brain Trauma Coaching',
+  tagline: 'I help Autistic adults better enjoy jobs, recover from trauma and advocate for their needs.',
   favicon: 'img/favicon.ico',
   url: 'https://tinkertim.github.io/',
   baseUrl: '/tinkertim/',
@@ -44,18 +44,17 @@ const config: Config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Site',
+      title: 'Autism-Affirming Coaching By Tim Post',
       logo: {
-        alt: 'Site1',
-        src: 'img/logo.svg',
+        alt: 'Autism Pride Infinity Logo',
+        src: 'img/logo-infinity.png',
       },
       items: [
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        {to: '/services', label: 'Coaching Services', position: 'right'},
+        {to: '/blog', label: 'Blog', position: 'right'},
+        {to: '/about', label: 'Tim\'s Bio', position: 'right'},
+        {to: '/book', label: 'Upcoming Book', position: 'right'},
+        {to: '/outreach', label: 'Schedule Time', position: 'right'}
       ],
     },
     footer: {
