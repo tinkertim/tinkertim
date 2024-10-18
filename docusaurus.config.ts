@@ -54,7 +54,7 @@ const config: Config = {
         {to: '/blog', label: 'Blog', position: 'right'},
         {to: '/about', label: 'Tim\'s Bio', position: 'right'},
         {to: '/book', label: 'Upcoming Book', position: 'right'},
-        {to: '/outreach', label: 'Schedule Time', position: 'right'}
+        {to: '/outreach', label: 'Outreach', position: 'right'}
       ],
     },
     footer: {

@@ -10,35 +10,41 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Autism-affirming Philosophy',
+    title: 'Divergency-Affirming Philosophy',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        ABA isn't for everyone, and fits people differently when it is for them. As someone 
-        with Autism who doesn't respond well to ABA, I affirm and normalize autistic traits
-        while providing insight and experience to help you solve problems.  
+        Traditional therapy often attempts to treat neurodivergent traits as part of,
+        or &mdash; in unfortunately far too many cases &mdash; the cause or root of 
+        the problem the person is seeking help in solving. The proposed "treatment" 
+        goes beyond "<em>just be like everyone else</em>.", in fact in a therapy setting, 
+        it's often prescribed that we should <em>just think</em> like everyone else.      
       </>
     ),
   },
   {
-    title: 'A New Normal After Brain Trauma',
+    title: 'Carving Out The Comfort You Deserve',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Recovering from any kind of brain trauma is incredibly hard; recovering from 
-        brain trauma when you also have Autism feels beyond cruel for many adults. Those with Autism
-        who survive cancer, accidents, violence and disasters recover better with empathetic
-        advocates and supporters, especially when returning to work.
+        I help clients learn how to describe boundaries they need to set in order to maximize 
+        their benefit from Allistic bosses and therapists; I help people explain concepts like 
+        masking and Alexithymia and how to advocate for their basic comfort. You'll also find me 
+        very sympathetic to the burden of fitting in being almost always entirely on the shoulders of
+        the Autistic person.
       </>
     ),
   },
   {
-    title: 'Being Authentic AND Autistic In Tech',
+    title: 'Life Recovery After Brain Trauma',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        As someone with Alexithemiya, I'm all too familiar with how difficult it can 
-        be to navigate workplace stress as a trauma survivor.  
+        I beat Brain Cancer after undergoing two rounds of brain surgery, multiple rounds of chemo and dozens of rounds
+        of debilitating radiation. At the time, I also wasn't in a position to stop work, and I was ill-prepared to return once 
+        I finally could. 
+        However your brain was traumatized, we share the same basic struggle; I'm here to help you communicate new
+        boundaries, help with unempathetic caregivers and help you avoid a whole lot of painful pitfalls.
       </>
     ),
   },
