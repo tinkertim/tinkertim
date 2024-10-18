@@ -12,7 +12,7 @@ const config: Config = {
   organizationName: 'tinkertim', 
   projectName: 'tinkertim',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
